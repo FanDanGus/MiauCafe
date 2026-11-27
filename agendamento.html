@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Miau & Café - Agendamento</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" href="img/MiaunCafe.svg" type="image/x-icon">
+</head>
+<body>
+
+  <header>
+    <a href="index.html" class="logo-circulo">
+      <img height="70px" src="img/MiaunCafe.svg" alt="">
+    </a>
+    <nav>
+      <img src="img/Elements/burguerMenu.svg" class="burguerMenu" height="75px" alt="">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="cardapio.html">Cardápio</a></li>
+        <li><a href="contato.html">Contato</a></li>
+        <li><a href="historia.html">História</a></li>
+        <li><a href="agendamento.html" class="ativo">Agendamento</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="secao-agendamento">
+    <h1>Horários</h1>
+
+    <div class="tabela-horarios">
+      <div class="linha-horario">
+        <span>Segunda-feira</span>
+        <span>08:00 - 21:00</span>
+        <span class="preco-dia">R$8.00/pessoa</span>
+      </div>
+      <div class="linha-horario">
+        <span>Terça-feira</span>
+        <span>08:00 - 21:00</span>
+        <span class="preco-dia">R$8.00/pessoa</span>
+      </div>
+      <div class="linha-horario">
+        <span>Quarta-feira</span>
+        <span>09:00 - 22:00</span>
+        <span class="preco-dia">R$8.00/pessoa</span>
+      </div>
+      <div class="linha-horario">
+        <span>Quinta-feira</span>
+        <span>10:00 - 23:00</span>
+        <span class="preco-dia">R$8.00/pessoa</span>
+      </div>
+      <div class="linha-horario">
+        <span>Sexta-feira</span>
+        <span>10:00 - 23:00</span>
+        <span class="preco-dia">R$10.00/pessoa</span>
+      </div>
+      <div class="linha-horario">
+        <span>Sábado</span>
+        <span>07:00 - 00:00</span>
+        <span class="preco-dia">R$14.00/pessoa</span>
+      </div>
+      <div class="linha-horario">
+        <span>Domingo</span>
+        <span>07:00 - 00:00</span>
+        <span class="preco-dia">R$14.00/pessoa</span>
+      </div>
+    </div>
+
+    <div class="box-reserva-form">
+      <h2>Informações</h2>
+      <form id="form-agendamento">
+        <input type="number" id="qtd-pessoas" min="1" placeholder="Mesa pra quantos?" required>
+        <input type="date" id="data-reserva" required>
+        <div class="valor-final-box" id="valor-final">Valor Final</div>
+        <div class="botoes-form">
+          <button type="submit" class="btn-laranja">Enviar</button>
+          <button type="reset" class="btn-laranja" id="btn-limpar">Limpar</button>
+        </div>
+      </form>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-logo-area">
+      <a href="index.html" class="logo-circulo">
+        <img height="70px" src="img/MiaunCafe.svg" alt="">
+      </a>
+      <div class="redes-sociais"><span>📷</span> <span>▶️</span> <span>in</span></div>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="cardapio.html">Cardápio</a></li>
+        <li><a href="contato.html">Contato</a></li>
+        <li><a href="historia.html">História</a></li>
+        <li><a href="agendamento.html">Agendamento</a></li>
+      </ul>
+    </nav>
+  </footer>
+
+</body>
+</html>

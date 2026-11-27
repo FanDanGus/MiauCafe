@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="537.76807"
+   height="537.76807"
+   viewBox="0 0 537.76807 537.76807"
+   sodipodi:docname="burguerMenu.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.66139054"
+     inkscape:cx="250.23037"
+     inkscape:cy="268.37396"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <rect
+       style="fill:#e87c2e;fill-opacity:1;stroke:none;stroke-width:4.86046;stroke-linecap:round"
+       id="rect1"
+       width="439.60278"
+       height="57.186188"
+       x="47.376114"
+       y="105.84893"
+       ry="28.593094" />
+    <rect
+       style="fill:#e87c2e;fill-opacity:1;stroke:none;stroke-width:4.86046;stroke-linecap:round"
+       id="rect2"
+       width="439.60278"
+       height="57.186188"
+       x="47.376114"
+       y="242.43024"
+       ry="28.593094" />
+    <rect
+       style="fill:#e87c2e;fill-opacity:1;stroke:none;stroke-width:4.86046;stroke-linecap:round"
+       id="rect4"
+       width="439.60278"
+       height="57.186188"
+       x="47.376114"
+       y="381.5311"
+       ry="28.593094" />
+  </g>
+</svg>
